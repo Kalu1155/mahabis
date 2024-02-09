@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg id="icon_search" class="icon_search" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+	<g id="Group_5635" data-name="Group 5635" transform="translate(-878 608)">
+		<g id="Group_5634" data-name="Group 5634" transform="translate(878 -608)">
+			<g id="Group_5633" data-name="Group 5633">
+				<circle id="Ellipse_2" data-name="Ellipse 2" cx="9" cy="9" r="9" transform="translate(0.5 0.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></circle>
+				<line id="Line_78" data-name="Line 78" x1="7.64" y1="7.64" transform="translate(15.86 15.86)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></line>
+			</g>
+		</g>
+	</g>
+</svg>

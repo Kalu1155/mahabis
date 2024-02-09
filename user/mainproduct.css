@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sideBar{
+    background-color: black;
+    width: 20%;
+    height: 739px;
+}
+a{
+    text-decoration: none;
+}
+.sideBar p{
+    padding-top: 50px;
+    color: #fff;
+    padding-left: 50px;
+}
+.admin{
+    display: flex;
+    
+}
